@@ -1,0 +1,12 @@
+{
+    "background.enabled": true,
+    "background.useDefault": false,
+    "background.editor": {
+        "customImages": [
+            "file:///C:/Users/ASUS/Downloads/luban7.jpg"
+        ],
+        "opacity": 0.1,
+        "size": "cover",
+        "position": "center"
+    }
+}
